@@ -5,7 +5,7 @@
 
 ![Mark's GitHub stats](https://github-readme-stats.vercel.app/api?username=GabrielMarkks&show_icons=true&theme=radical)
 
-## Tecnologia que uso nos meus dias (Aspirante de Dev rs)...
+## Tecnologias que uso nos meus dias (Aspirante de Dev rs)...
 
 <div  style="display: inline_block"><br/>
 <img align="center" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5">  
